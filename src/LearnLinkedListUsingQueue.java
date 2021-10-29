@@ -24,8 +24,9 @@ public class LearnLinkedListQueue {
 }
 
 /*
-Stack    vs.   LinkedList  
-Push            offer - add
-pop             poll  - remove
-peek            peek  - element
+LinkedList usin List Interface    vs.   LinkedList using Queue Interface
+
+Push                                    offer - add
+pop                                     poll  - remove
+peek                                    peek  - element
 */

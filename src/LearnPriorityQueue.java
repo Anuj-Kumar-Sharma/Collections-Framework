@@ -5,8 +5,9 @@ import java.util.Queue;
 public class LearnPriorityQueue {
 
     public static void main(String[] args) {
-
-        Queue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
+        
+        Queue<Integer> pq = new PriorityQueue<>(); //It works as Min Heap
+        //Queue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder()); //It works as Max Heap
 
         pq.offer(40);
         pq.offer(12);
