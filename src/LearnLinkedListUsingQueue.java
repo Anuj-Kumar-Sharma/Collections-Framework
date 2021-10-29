@@ -24,7 +24,7 @@ public class LearnLinkedListQueue {
 }
 
 /*
-Stack    vs.   Queue  
+Stack    vs.   LinkedList  
 Push            offer - add
 pop             poll  - remove
 peek            peek  - element
