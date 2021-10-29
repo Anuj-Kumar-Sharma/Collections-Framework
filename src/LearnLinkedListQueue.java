@@ -22,3 +22,10 @@ public class LearnLinkedListQueue {
         System.out.println(q1.element()); // Returns head of queue. Throws exception if empty
     }
 }
+
+/*
+Stack    vs.   Queue  
+Push            offer - add
+pop             poll  - remove
+peek            peek  - element
+*/
