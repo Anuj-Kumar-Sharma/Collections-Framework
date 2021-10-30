@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class LearnLinkedListQueue {
+public class LearnLinkedListUsingQueue {
 
     public static void main(String[] args) {
 
