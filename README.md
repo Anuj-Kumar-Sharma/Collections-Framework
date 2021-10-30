@@ -5,6 +5,7 @@ A beginner's guide to Learn Java Collections Framework
 alt="Collections Framework in 1 video" width="240" height="180" border="10" /></a>
 
 ![collection-hierarchy](https://static.javatpoint.com/images/java-collection-hierarchy.png?raw=true)
+![Simplified](https://www.logicbig.com/tutorials/core-java-tutorial/java-collections/java-collection-cheatsheet/images/collection-opts.png?raw=true)
 ![Simplified](https://github.com/SafiBadi/Collections-Framework/blob/master/img/Screenshot%20(65).png?raw=true)
 
 
