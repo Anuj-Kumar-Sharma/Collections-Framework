@@ -9,9 +9,8 @@ public class LearnSet {
 
 //        Set<Integer> set = new HashSet<>(); // Random Order set. all operations in O(1)
 //        Set<Integer> set = new LinkedHashSet<>(); // Orignal Order set. all operations in O(1)
-
         Set<Integer> set = new TreeSet<>(); // Stores in sorted order using BST(Binary Search Tree) + property of set. all operations in O(log(n))
-//
+
         set.add(32); // Lets say has of 32 = adjadghsb
         set.add(32); // has of 32 = adjadghsb is already there. So no repetetative value will be added.
         set.add(2);
