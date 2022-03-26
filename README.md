@@ -24,3 +24,5 @@ alt="Collections Framework in 1 video" width="240" height="180" border="10" /></
 * Sorting Custom Collections
 * Comparable Interface
 * Comparator Interface
+
+******************************************let me love you java*******************************************
