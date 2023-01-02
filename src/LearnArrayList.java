@@ -11,6 +11,7 @@ public class LearnArrayList {
         list.add(1);
         list.add(2);
         list.add(3);
+        list.add(4);
         System.out.println(list);
 
         list.add(4);  // This will add 4 at the end of the List.
